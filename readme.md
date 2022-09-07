@@ -109,7 +109,7 @@ $$
 Here $f$ is our profit, calculate its derivative, we can find the optimal input amount:
 
 $$
-\Delta_a = \frac{\sqrt{E_aE_br}-E_a}{r}
+\Delta_a^* = \frac{\sqrt{E_aE_br}-E_a}{r}
 $$
 
 Code for path finding with optimal input amount calculation:
